@@ -1,0 +1,34 @@
+{
+  "name": "footballer-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A network programming project - Tic-Tac-Toe game with footballers",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "next build"
+  },
+  "keywords": [
+    "game",
+    "websocket",
+    "nextjs",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sqlite3": "^5.1.7",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/ws": "^8.5.10",
+    "typescript": "^5.3.0"
+  }
+}

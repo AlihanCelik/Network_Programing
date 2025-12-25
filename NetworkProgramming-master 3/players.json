@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Lionel Messi",
+    "teams": ["Barcelona", "PSG", "Inter Miami"]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "teams": [
+      "Sporting CP",
+      "Manchester United",
+      "Real Madrid",
+      "Juventus",
+      "Al-Nassr"
+    ]
+  },
+  {
+    "name": "Neymar Jr",
+    "teams": ["Santos", "Barcelona", "PSG", "Al-Hilal"]
+  },
+  {
+    "name": "Luis Suárez",
+    "teams": ["Ajax", "Liverpool", "Barcelona", "Atlético Madrid", "Grêmio", "Inter Miami"]
+  },
+  {
+    "name": "Zlatan Ibrahimović",
+    "teams": [
+      "Malmö",
+      "Ajax",
+      "Juventus",
+      "Inter",
+      "Barcelona",
+      "AC Milan",
+      "PSG",
+      "LA Galaxy",
+      "Manchester United"
+    ]
+  },
+  {
+    "name": "Ángel Di María",
+    "teams": [
+      "Rosario Central",
+      "Benfica",
+      "Real Madrid",
+      "Manchester United",
+      "PSG",
+      "Juventus"
+    ]
+  },
+  {
+    "name": "Sergio Ramos",
+    "teams": ["Sevilla", "Real Madrid", "PSG"]
+  },
+  {
+    "name": "Xabi Alonso",
+    "teams": ["Real Sociedad", "Liverpool", "Real Madrid", "Bayern Munich"]
+  },
+  {
+    "name": "James Rodríguez",
+    "teams": [
+      "Porto",
+      "Monaco",
+      "Real Madrid",
+      "Bayern Munich",
+      "Everton",
+      "Al-Rayyan",
+      "Olympiacos"
+    ]
+  },
+  {
+    "name": "Gareth Bale",
+    "teams": ["Southampton", "Tottenham", "Real Madrid", "LAFC"]
+  },
+  {
+    "name": "Alexis Sánchez",
+    "teams": [
+      "Udinese",
+      "Barcelona",
+      "Arsenal",
+      "Manchester United",
+      "Inter",
+      "Marseille"
+    ]
+  },
+  {
+    "name": "Mesut Özil",
+    "teams": [
+      "Schalke 04",
+      "Werder Bremen",
+      "Real Madrid",
+      "Arsenal",
+      "Fenerbahçe",
+      "İstanbul Başakşehir"
+    ]
+  },
+  {
+    "name": "Toni Kroos",
+    "teams": ["Bayern Munich", "Bayer Leverkusen", "Real Madrid"]
+  },
+  {
+    "name": "Luka Modrić",
+    "teams": ["Dinamo Zagreb", "Tottenham", "Real Madrid"]
+  },
+  {
+    "name": "Karim Benzema",
+    "teams": ["Lyon", "Real Madrid", "Al-Ittihad"]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "teams": ["Lech Poznań", "Borussia Dortmund", "Bayern Munich", "Barcelona"]
+  },
+  {
+    "name": "Erling Haaland",
+    "teams": ["Molde", "Red Bull Salzburg", "Borussia Dortmund", "Manchester City"]
+  },
+  {
+    "name": "Kylian Mbappé",
+    "teams": ["Monaco", "PSG"]
+  },
+  {
+    "name": "Harry Kane",
+    "teams": ["Tottenham", "Bayern Munich"]
+  },
+  {
+    "name": "Manuel Neuer",
+    "teams": ["Schalke 04", "Bayern Munich"]
+  },
+  {
+    "name": "Virgil van Dijk",
+    "teams": ["Groningen", "Celtic", "Southampton", "Liverpool"]
+  },
+  {
+    "name": "Mohamed Salah",
+    "teams": ["Basel", "Chelsea", "Fiorentina", "Roma", "Liverpool"]
+  },
+  {
+    "name": "Sadio Mané",
+    "teams": [
+      "Metz",
+      "Red Bull Salzburg",
+      "Southampton",
+      "Liverpool",
+      "Bayern Munich",
+      "Al-Nassr"
+    ]
+  },
+  {
+    "name": "Philippe Coutinho",
+    "teams": [
+      "Vasco da Gama",
+      "Inter",
+      "Liverpool",
+      "Barcelona",
+      "Bayern Munich",
+      "Aston Villa"
+    ]
+  },
+  {
+    "name": "Jordi Alba",
+    "teams": ["Valencia", "Barcelona", "Inter Miami"]
+  },
+  {
+    "name": "Dani Alves",
+    "teams": ["Bahia", "Sevilla", "Barcelona", "Juventus", "PSG", "São Paulo"]
+  },
+  {
+    "name": "David Villa",
+    "teams": [
+      "Sporting Gijón",
+      "Zaragoza",
+      "Valencia",
+      "Barcelona",
+      "Atlético Madrid",
+      "New York City FC"
+    ]
+  },
+  {
+    "name": "Fernando Torres",
+    "teams": [
+      "Atlético Madrid",
+      "Liverpool",
+      "Chelsea",
+      "AC Milan",
+      "Sagan Tosu"
+    ]
+  },
+  {
+    "name": "Andrés Iniesta",
+    "teams": ["Barcelona", "Vissel Kobe", "Emirates Club"]
+  },
+  {
+    "name": "Bastian Schweinsteiger",
+    "teams": ["Bayern Munich", "Manchester United", "Chicago Fire"]
+  },
+  {
+    "name": "Wayne Rooney",
+    "teams": ["Everton", "Manchester United", "DC United", "Derby County"]
+  },
+  {
+    "name": "Robin van Persie",
+    "teams": ["Feyenoord", "Arsenal", "Manchester United", "Fenerbahçe"]
+  },
+  {
+    "name": "Franck Ribéry",
+    "teams": ["Metz", "Galatasaray", "Marseille", "Bayern Munich", "Fiorentina", "Salernitana"]
+  },
+  {
+    "name": "Arjen Robben",
+    "teams": ["Groningen", "PSV", "Chelsea", "Real Madrid", "Bayern Munich"]
+  },
+  {
+    "name": "Petr Čech",
+    "teams": ["Rennes", "Chelsea", "Arsenal"]
+  },
+  {
+    "name": "Eden Hazard",
+    "teams": ["Lille", "Chelsea", "Real Madrid"]
+  },
+  {
+    "name": "Gerard Piqué",
+    "teams": ["Zaragoza", "Manchester United", "Barcelona"]
+  },
+  {
+    "name": "Sergio Busquets",
+    "teams": ["Barcelona", "Inter Miami"]
+  },
+  {
+    "name": "Thiago Silva",
+    "teams": ["Fluminense", "AC Milan", "PSG", "Chelsea"]
+  },
+  {
+    "name": "Antoine Griezmann",
+    "teams": ["Real Sociedad", "Atlético Madrid", "Barcelona"]
+  }
+]
